@@ -18,6 +18,6 @@ u["@Zebio22"] = {"Zebio22", "|cC1C2B2zebio22|r", "HodorReflexes/users/equinoxe/Z
 u["@StickeyBench"] = {"StickeyBench", "|c000000S|r|c2A0000t|r|c550000i|r|c7F0000c|r|cAA0000k|r|cD40000e|r|cFF0000y|r|cFD2A00B|r|cFC5500e|r|cFA7F00n|r|cF9AA00c|r|cF8D400h|r", "HodorReflexes/users/equinoxe/Bench.dds"}
 u["@luxferre22"] = {"luxferre22", "|cFF0000LUX|r", "HodorReflexes/users/equinoxe/luxferre22.dds"}
 u["@Hettyk.Haran"] = {"Hettyk Haran", "|c0000B3H|r|c2A0095e|r|c550077t|r|c7F0059t|r|cAA003By|r|cD4001DK|r|cFF0007 |r|cFD2A00H|r|cFC5500a|r|cFA7F00r|r|cF9AA00a|r|cF8D400n|r", "HodorReflexes/users/equinoxe/Hettyk.dds"}
-u["@sanstitre01"] = {"sanstitre01", "|cFF0000N|r|cDD0000@|r|cBB0000t|r|c990000h|r|c990000 |r|c550000<|r|c3300003|r", "HodorReflexes/users/equinoxe/sanstitre01.dds"}
+u["@Nath_sanstitre01"] = {"Nath", "|cFF0000N|r|cDD0000a|r|cBB0000t|r|c990000h|r|c990000 |r|c550000<|r|c3300003|r", "HodorReflexes/users/equinoxe/Nath_sanstitre01.dds"}
 u["@Divine69"] = {"Divine69", "|cFDEBA7Divine|r", "HodorReflexes/users/equinoxe/Divine69.dds"}
 u["@karatak"] = {"Karatak", "|cFF0000K|r|cFFFFFFar|r|c0000FFa|r", "HodorReflexes/users/equinoxe/karatak.dds"}

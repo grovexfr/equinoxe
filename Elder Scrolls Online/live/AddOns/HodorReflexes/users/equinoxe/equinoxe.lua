@@ -21,3 +21,4 @@ u["@Hettyk.Haran"] = {"Hettyk Haran", "|c0000B3H|r|c2A0095e|r|c550077t|r|c7F0059
 u["@Nath_sanstitre01"] = {"Nath", "|cFF0000N|r|cDD0000a|r|cBB0000t|r|c990000h|r|c990000 |r|c550000<|r|c3300003|r", "HodorReflexes/users/equinoxe/Nath_sanstitre01.dds"}
 u["@Divine69"] = {"Divine69", "|cFDEBA7Divine|r", "HodorReflexes/users/equinoxe/Divine69.dds"}
 u["@karatak"] = {"Karatak", "|cFF0000K|r|cFFFFFFar|r|c0000FFa|r", "HodorReflexes/users/equinoxe/karatak.dds"}
+u["@Rayba_Sama"] = {"Rayba_Sama", "|c240ec5R|r|c3a19b0a|r|c50259by|r|c663086b|r|c7c3c71a|r|c91475c_|r|ca75347S|r|cbd5e32a|r|cd36a1dm|r|ce97508a|r", "HodorReflexes/Rayba_Sama.dds"}

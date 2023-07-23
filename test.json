@@ -1,0 +1,56 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "VLC",
+      "sources": [
+        "https://i.imgur.com/2olVDTG.png"
+      ],
+      "x": 1883,
+      "y": 953
+    },
+    {
+      "name": "FR drapeau droite",
+      "sources": [
+        "https://i.imgur.com/a/Hf0yZ9O"
+      ],
+      "x": 1868,
+      "y": 645
+    },
+    {
+      "name": "Drapeau de Gauche",
+      "sources": [
+        "https://i.imgur.com/pZHyFdf.png"
+      ],
+      "x": 500,
+      "y": 630
+    },
+    {
+      "name": "Dessins animés FR",
+      "sources": [
+        "https://i.imgur.com/Lnw3EVE.png"
+      ],
+      "x": 1850,
+      "y": 300
+    },
+    {
+      "name": "Kyks",
+      "sources": [
+        "https://i.imgur.com/1KnRkBq.png"
+      ],
+      "x": 1856,
+      "y": 204
+    },
+    {
+      "name": "KB9",
+      "sources": [
+        "https://i.imgur.com/7CisoMi.png",
+        ""
+      ],
+      "x": 1933,
+      "y": 209
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
